@@ -16,6 +16,7 @@ namespace playground
 {
     /*!
      * \brief The kid on the ground
+     * \headerfile beman/playground.hpp <beman/playground.hpp>
      */
     class kid
     {
